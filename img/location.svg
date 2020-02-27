@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="19px" viewBox="0 0 12 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Footer" transform="translate(-427.000000, -73.000000)" fill="#FCBD5F" fill-rule="nonzero">
+            <g id="Group-23">
+                <g id="Group-21" transform="translate(427.000000, 48.000000)">
+                    <path d="M6,25 C2.69166271,25 0,27.8412051 0,31.3333457 C0,32.3816855 0.248308109,33.4211191 0.720350156,34.3430645 L5.67188736,43.7958984 C5.7378052,43.9219219 5.86341824,44 6,44 C6.13658176,44 6.2621948,43.9219219 6.32811264,43.7958984 L11.281478,34.3399473 C11.7516919,33.4211191 12,32.3816484 12,31.3333086 C12,27.8412051 9.30833729,25 6,25 Z M6,34.5 C4.34583136,34.5 3.00001758,33.079416 3.00001758,31.3333457 C3.00001758,29.5872754 4.34583136,28.1666914 6,28.1666914 C7.65416864,28.1666914 8.99998242,29.5872754 8.99998242,31.3333457 C8.99998242,33.079416 7.65416864,34.5 6,34.5 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
